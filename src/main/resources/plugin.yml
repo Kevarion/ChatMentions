@@ -1,0 +1,6 @@
+name: ChatMentions
+version: '${project.version}'
+main: net.kevarion.chatmentions.ChatMention
+api-version: '1.21'
+authors: [Kevarion]
+description: A simple plugin that mentions you when your name is said in chat
